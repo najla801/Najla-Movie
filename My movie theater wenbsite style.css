@@ -1,0 +1,163 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #111;
+            color: #f0f0f0;
+            text-align: center;
+            #nav{
+                background-color: yellow;
+                text-align: left;
+                padding: 2px;
+                color: #111;
+                list-style: none;
+                display: inline-block;
+                padding: 20px;
+                list-style:;
+                box-sizing: border-box;
+                margin: 0%;
+                
+            
+            }
+        }
+        header {
+            background-color: #e50914;
+            padding: 20px;
+            color: white;
+            font-size: 28px;
+        }
+        section {
+            margin: 30px;
+        }
+        .movie {
+            margin: 20px;
+            padding: 10px;
+            background-color: #222;
+            border-radius: 10px;
+        }
+        img {
+            width: 200px;
+            border-radius: 5px;
+        }
+    </style>
+   
+</head>
+<body>
+header{
+    background-color: #e50914;
+    padding: 20px;
+    color: white;
+    font-size: 28px;
+   
+}
+
+
+h{
+    background-color: #e50914;
+    text-align: center;
+    
+}
+body{
+    nav{
+        list-style-type: none;
+       list-style: none;
+        padding: 30px;
+        display: inline;
+    }
+       
+    background-color: wheat;
+
+}
+#para{
+    color:white (0, 255, 13);
+    
+  text-align: center;
+   
+    font-size: 22px;
+}
+.movie{
+    color: blue;
+    text-align: center;
+    
+}
+.div{
+    color: blue;
+    background-color: wheat;
+    border: #e50914;
+   border-bottom: #e50914;
+
+}
+#donate{
+background-color: antiquewhite;
+font-size: larger;
+text-align: left;
+color: #111;
+}
+#nav{
+    background-color: yellow;
+ text-align: left;
+ 
+
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: #f0f0f0;
+    text-align: center;
+}
+header {
+    background-color: #e50914;
+    padding: 20px;
+    color: white;
+    font-size: 28px;
+}
+section {
+    margin: 30px;
+}
+.movie {
+    margin: 20px;
+    padding: 10px;
+    background-color: #222;
+    border-radius: 10px;
+}
+img {
+    width: 200px;
+    border-radius: 5px;}
+    🎬 
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #111;
+            color: #f0f0f0;
+            text-align: :left;
+        }
+        header {
+            background-color: #e50914;
+            padding: 20px;
+            color: white;
+            font-size: 28px;
+        }
+        section {
+            margin: 30px;
+        }
+        .movie {
+            margin: 20px;
+            padding: 10px;
+            background-color: #222;
+            border-radius: 10px;
+        }
+        img {
+            width: 200px;
+            border-radius: 5px;
+        }
+        #movie{
+            color: aqua;
+            font-style: italic;
+            font-size: 30px;
+        }
+    </style>
+</head>   
